@@ -1,0 +1,20 @@
+Ò»
+int sum=0;
+for (int i=1;i<=100;i++)
+{
+  sum+=i;
+}
+¶þ
+int sum=0,i=1;
+for(;i<=100;i++)
+{
+   sum+=i;
+}
+
+Èý
+int sum=0,i=1;
+for(;i<=100;)
+{
+  sum+=i;
+  i++;
+}
